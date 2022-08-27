@@ -1,0 +1,63 @@
+.topbar
+{
+width:100%;
+height:80px;
+position:absolute;
+top:0px;
+background-color:green;
+color:fff;
+}
+.topbar h1
+{
+text-align:center;
+}
+.wrapper
+{
+position:absolute;
+top:100px;
+background-color:#d6d6d6;
+width:100%;
+height:400px;
+}
+.container
+{
+position:relative;
+left:45%;
+top:20%;
+display:block;
+min-width:300px;
+}
+.content
+{
+display:block;
+}
+.container a
+{
+text-decoration:none;
+font-size:24px;
+color:blue;
+}
+.status
+{
+position:absolute;
+top:90px;
+left:90px;
+background-color:blue;
+color:#fff;
+}
+.result {
+position:absolute;
+top:364px;
+left:30%;
+width:160px;
+z-index:5;
+color:red;
+}
+.marks {
+position:relative;
+top:364px;
+left:70%;
+width:160px;
+width:160px;
+z-index:5;
+color:red; }
