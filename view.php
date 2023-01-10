@@ -6,7 +6,7 @@ include('header.php');
 <div class="container">
 <h4> Search...</h4>
 <form action="" method ="POST">
-<input type="text" name="reg" placeholder="Registration number"><br>
+<input type="text" name="reg" placeholder="Registration number:"><br>
 <input type="submit" name="sbtBtn" value="Search">
 </form>
 </div>
